@@ -1,0 +1,7 @@
+{
+  "name": "NewGearShop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
